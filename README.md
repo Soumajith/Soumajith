@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Soumajith Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Realtime Delivery App**
+- 🔭 I’m currently working on **Network Traffic Analysis**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Machine Learning Models**
 
-- 💬 Ask me about **React Library**
+- 💬 Ask me about **React, Node, DSA**
 
 - 📫 How to reach me **soumajithdas@gmail.com**
 
