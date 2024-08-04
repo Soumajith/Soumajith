@@ -11,6 +11,15 @@
 
 - 📫 How to reach me **soumajithdas@gmail.com**
 
+<p align="left">
+<a href="https://twitter.com/soumajith0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumajith0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soumajith das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumajith das" height="30" width="40" /></a>
+</p>
+
+[![GitHub followers](https://img.shields.io/github/followers/soumajith.svg?style=social&label=Follow)](https://github.com/soumajith)
+[![Twitter Follow](https://img.shields.io/twitter/follow/soumajith0?style=social)](https://twitter.com/soumajith0)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soumajith0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumajith0" height="30" width="40" /></a>
