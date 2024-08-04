@@ -1,3 +1,4 @@
+<img src="https://via.placeholder.com/1200x400.png?text=Hi+%F0%9F%91%8B,+I'm+Soumajith+Das+-+A+passionate+computer+science+student+from+India" alt="Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Soumajith Das</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
